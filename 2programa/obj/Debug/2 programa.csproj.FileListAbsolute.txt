@@ -1,0 +1,20 @@
+c:\users\tadmes\documents\visual studio 2015\Projects\2 programa\2 programa\bin\Debug\2 programa.exe.config
+c:\users\tadmes\documents\visual studio 2015\Projects\2 programa\2 programa\bin\Debug\2 programa.exe
+c:\users\tadmes\documents\visual studio 2015\Projects\2 programa\2 programa\bin\Debug\2 programa.pdb
+c:\users\tadmes\documents\visual studio 2015\Projects\2 programa\2 programa\obj\Debug\2 programa.csprojResolveAssemblyReference.cache
+c:\users\tadmes\documents\visual studio 2015\Projects\2 programa\2 programa\obj\Debug\2 programa.exe
+c:\users\tadmes\documents\visual studio 2015\Projects\2 programa\2 programa\obj\Debug\2 programa.pdb
+D:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\bin\Debug\2 programa.exe.config
+D:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\bin\Debug\2 programa.exe
+D:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\bin\Debug\2 programa.pdb
+D:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.csprojResolveAssemblyReference.cache
+D:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.csproj.CoreCompileInputs.cache
+D:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.exe
+D:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.pdb
+G:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.csprojResolveAssemblyReference.cache
+G:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.csproj.CoreCompileInputs.cache
+G:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.exe
+G:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\obj\Debug\2 programa.pdb
+G:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\bin\Debug\2 programa.exe.config
+G:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\bin\Debug\2 programa.exe
+G:\Algoritmu sudarymas ir analize\2 laboro 2 programa\2 programa\bin\Debug\2 programa.pdb
